@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    # disable rules you don't need/want
+    non_constant_identifier_names: false
+    # add additional rules
+    use_named_constants: true

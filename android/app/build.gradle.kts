@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hyperscanai.example"
+    namespace = "com.doannc2212.example"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.hyperscanai.example"
+        applicationId = "com.doannc2212.example"
         minSdk = 24
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

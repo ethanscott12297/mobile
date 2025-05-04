@@ -4,6 +4,8 @@ import 'package:google_mlkit_digital_ink_recognition/google_mlkit_digital_ink_re
 import '../activity_indicator/activity_indicator.dart';
 
 class DigitalInkView extends StatefulWidget {
+  const DigitalInkView({Key? key}) : super(key: key);
+
   @override
   State<DigitalInkView> createState() => _DigitalInkViewState();
 }

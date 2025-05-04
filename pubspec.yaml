@@ -39,6 +39,7 @@ flutter:
   assets:
     - assets/ml/
     - assets/images/
+    - assets/icon/3.2-02.png
 
 flutter_launcher_icons:
   android: "launcher_icon"
